@@ -5,3 +5,6 @@ Am implementat validarea datelor introduse în formular înainte de a le trimite
 Am adăugat funcționalitatea de verificare a existenței utilizatorului după ce datele sunt trimise și salvate în fișierul JSON. Am creat o pagină de autentificare (LoginPage.js) care verifică dacă adresa de email și parola introduse de utilizator coincid cu datele din fișierul JSON.
 
 Am creat și implementat alte pagini pentru utilizator, cum ar fi pagina principală (HomePage.js) sau pagina de profil (ProfilePage.js). Ne-am asigurat că aceste pagini sunt accesibile doar utilizatorilor autentificați prin aplicarea unui sistem de autentificare sau restricționare a accesului.
+
+
+rulare: npm run dev

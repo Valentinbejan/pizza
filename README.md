@@ -1,3 +1,7 @@
 pizza site
 
-rulare: npm run dev
+rulare: 
+
+npm install
+
+npm run dev
